@@ -1,0 +1,2 @@
+- 根据关键词搜索包：[GET] https://www.npmjs.com/search/suggestions?q=xxxxx
+- 得到指定包的最新版本：[GEt] https://registry.npmjs.org/package-name/latest

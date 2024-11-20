@@ -1,0 +1,3 @@
+- 进入虚拟环境 pipenv shell
+- 安装依赖 pipenv install xxx
+- 在虚拟环境中运行 pipenv run pyinstaller main.py
